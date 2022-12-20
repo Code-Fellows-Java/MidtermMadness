@@ -23,7 +23,7 @@ Cooperation Plan
 
 - Adrian: Technical Java
 - Sage: Researching, and Documentation.
-- Ben: Java ecosystem, knowledge of libraries, and more java also.
+- Armen:
 - Ian: Design, and following directions.
 
 ### How can you best utilize these strengths in the execution of your project?
